@@ -1,0 +1,8 @@
+{
+  "Group": "com.electro",
+  "Name": "Friends",
+  "Version": "1.1.0",
+  "Main": "com.electro.friends.FriendsPlugin",
+  "ServerVersion":"2026.02.19-1a311a592",
+  "IncludesAssetPack": true
+}
